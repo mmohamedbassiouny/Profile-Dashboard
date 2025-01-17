@@ -38,7 +38,7 @@ This is a **personal profile dashboard** showcasing a collection of projects and
    ```bash
    git clone https://github.com/mmohamedbassiouny/Profile-Dashboard.git
 2. Navigate to the project folder:
-   cd your-repo-name
+   cd profile-dashboard
 3. Open the index.html file in your browser to view the dashboard.
 
 
